@@ -6,4 +6,4 @@ Verificar cual de los tres numeros enteros es el mayor.
 # Diseño
 
 ## Diagrama de flujo
-! [Diagrama de flujo](diagrama.png "Diagrama de flujo" )
+![Diagrama de flujo](diagrama.png "Diagrama de flujo" )
